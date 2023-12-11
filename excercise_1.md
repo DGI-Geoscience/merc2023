@@ -4,7 +4,24 @@
 
 ## (20 marks total)
 
-The following five questions are referring to the WellCAD plot in the PDF file labeled “OTV-PRP_Exercise 2.pdf”. To view the file in the WellCAD Reader please download and run the installation that was provided “wcad.reader.x64.5.4.exe”.  Open the WellCAD file OTV-PRP_Exercise 2.WCL.  
+The following five questions are referring to the WellCAD plot in the PDF file labeled:
+
+**PRP_Exercise1.pdf** 
+
+PDF version can be found here:
+
+[PRP_Excerise1.pdf](https://github.com/DGI-Geoscience/merc2023/blob/master/PRP_Exercise1.pdf)
+
+WellCAD version can be found here:
+
+[PRP_Excerse1.wcl](https://github.com/DGI-Geoscience/merc2023/blob/master/PRP_Exercise1.WCL)
+
+WellCAD Reader Download:
+
+[WellCAD Website](https://www.alt.lu/download/)
+
+
+### Questions
 
 1. Identify visible data error points in the physical properties by listing the parameter and depth these
 errors occur at. How can we easily correct these erroneous data points? (7 marks)
