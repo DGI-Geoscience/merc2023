@@ -32,5 +32,5 @@ errors occur at. How can we easily correct these erroneous data points? (7 marks
 
 4. At the top of the borehole it appears that the lithological rock type logged by the geologist is incorrect. Please indicate why this might be.  (3 marks)
 
-5. Within the last purple unit, can you identify two or more sub-units based on the physical properties and the OTV image. Please explain how you came up with this answer. (3 marks)
+5. Within the last purple unit, can you identify two or more sub-units based on the physical properties. Please explain how you came up with this answer. (3 marks)
 
